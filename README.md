@@ -48,6 +48,8 @@ Use this repository as the starting point:
 > [!NOTE]
 > This repository owns the curated prompt library. API automation, callable skills, and image-to-video workflows are separate surfaces listed under [Related Repositories](#related-repositories).
 
+- [No Stairs Please](https://nostairsplease.com/) — Live-music venue directory and MCP server (`https://nostairsplease.com/mcp`) for touring musicians.
+
 <a id="model-overview"></a>
 
 ## ❓ What is GPT Image 2
